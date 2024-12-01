@@ -1,0 +1,53 @@
+{
+    "recipes":[
+        {
+          "recipeName": "Spaghetti Carbonara",
+          "ingredients": ["Spaghetti", "Eggs", "Parmesan Cheese", "Bacon", "Black Pepper"],
+          "cookingTime": 15,
+          "cuisineType": "Italian",
+          "instructions": "Boil pasta. Cook bacon. Mix with eggs and cheese. Combine.",
+          "recipeImage":"https://imgs.search.brave.com/tSpezoP0XDAUfiaHY9vrxPRDsM25wYPK1-ABM8qe3ZM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzg5LzU1LzY2/LzM2MF9GXzk4OTU1/NjY2NV9hRGJ6Ulh6/UHNxdHZUVXQ1aFdP/T2hTREdCRm1pM0dB/ZS5qcGc"
+          
+        },
+        {
+          "recipeName": "Chicken Tikka",
+          "ingredients": ["Chicken", "Yogurt", "Garlic", "Ginger", "Spices"],
+          "cookingTime": 25,
+          "cuisineType": "Indian",
+          "instructions": "Marinate chicken. Grill until cooked.",
+          "recipeImage":"https://imgs.search.brave.com/Onzjk9ladynuLhsjay2_c9dFDrzlbZl56-Wc182gsxs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzMxLzMzLzM2/LzM2MF9GXzMxMzMz/NjYzX0xNQjZDS2wx/eUxFSjB5QWNGQ09H/SmlWU3JDWjZpR2l0/LmpwZw"
+        },
+        {
+          "recipeName": "Vegetable Stir-fry",
+          "ingredients": ["Broccoli", "Carrot", "Bell Pepper", "Soy Sauce", "Garlic"],
+          "cookingTime": 10,
+          "cuisineType": "Asian",
+          "instructions": "Stir-fry vegetables with garlic and soy sauce.",
+          "recipeImage":"https://imgs.search.brave.com/Tk-ioKC5_TOGPxY7j6EFRQQXFITRkt-fwAjMulbs_AM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzg1LzA3Lzgy/LzM2MF9GXzk4NTA3/ODI3OF9qczZWdXJY/TmRTdHJVY0d4TGdI/MTRTSW1SVjVtamw2/dS5qcGc"
+        },
+        {
+          "recipeName": "Beef Tacos",
+          "ingredients": ["Ground Beef", "Taco Shells", "Lettuce", "Cheese", "Salsa"],
+          "cookingTime": 15,
+          "cuisineType": "Mexican",
+          "instructions": "Cook beef. Fill taco shells with beef and toppings.",
+          "recipeImage":"https://imgs.search.brave.com/8ZeoeHuZnV9sCJJwa6IW2-BXD_ov9qeih22arzK-3sk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMz/MzY0NzM3OC9waG90/by9ob21lbWFkZS1h/bWVyaWNhbi1zb2Z0/LXNoZWxsLWJlZWYt/dGFjb3Mud2VicD9h/PTEmYj0xJnM9NjEy/eDYxMiZ3PTAmaz0y/MCZjPVZsSHNxeENG/QXhUc0J1aldSYkVr/MzBnUnBFcjhxNUNH/UVZ4YXIzT1ViNzg9"
+        },
+        {
+          "recipeName": "Caprese Salad",
+          "ingredients": ["Tomato", "Mozzarella", "Basil", "Olive Oil", "Balsamic Vinegar"],
+          "cookingTime": 5,
+          "cuisineType": "Italian",
+          "instructions": "Layer tomato, mozzarella, and basil. Drizzle with oil and vinegar.",
+          "recipeImage":"https://imgs.search.brave.com/uyLh5C3dOfTdsrE3tAEYTftmaRg0TqbJt_t9d8EfEHI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YWxscmVjaXBlcy5j/b20vdGhtYi82dktT/cnI1SDN2QzloWnk1/WTZQYjhyc3RNNkE9/LzE1MDB4MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9p/bWFnZS0xLTEtZGM1/ZWI2NTliZjExNGMw/ZGI2ZTVkOTEwNDNm/NGEzNTYuanBn"
+        },
+        {
+          "recipeName": "Pancakes",
+          "ingredients": ["Flour", "Eggs", "Milk", "Sugar", "Baking Powder"],
+          "cookingTime": 10,
+          "cuisineType": "American",
+          "instructions": "Mix ingredients. Cook batter in a pan until golden.",
+          "recipeImage":"https://imgs.search.brave.com/0f88B5gnc00HHWImVrcaYkTPMVbNnM9rjTt7dY3FSPM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1Lzk1LzQyLzgx/LzM2MF9GXzU5NTQy/ODE0MF9CMUVSakFy/WHpTanBoSld6WW1F/aDA5bWZkWHVWZjJa/ZC5qcGc"
+        }
+      ]   
+}
